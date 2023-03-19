@@ -1,0 +1,17 @@
+.footer{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    background-color:rgb(74, 74, 74);
+    
+    padding: 1.2rem 0;
+}
+.facebook{
+    width: 28px;
+}
+.twitter{
+    width:28px
+}
+

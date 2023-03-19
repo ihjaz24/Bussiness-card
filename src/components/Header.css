@@ -1,0 +1,41 @@
+.header-img{
+    width: 317px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 200px;
+}
+.header-name{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 0%;
+    color: rgb(74, 74, 74);
+    font-family: sans-serif;
+
+}
+.header-skill{
+    text-align: center;
+    color:rgb(120, 10, 134);
+    font-size: 20px;
+    margin-top:0%;
+    font-family: sans-serif;
+
+}
+
+h3 {
+    transition: 0.5s ease-out;
+  }
+  h3:hover  {
+    margin-right: 5px;
+  }
+  h3:hover  {
+    content: "'";
+  }
+  h3:hover {
+    margin-left: 30px;
+  }
+  h3:hover  {
+    color: #fff;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #fff;
+  }
